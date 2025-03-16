@@ -4,7 +4,7 @@ A simple frontend clone of the Amazon website built using HTML and CSS.
 This project was created to practice and improve my frontend development skills.
 
  🔗 Live Demo
-[View Site](https://bhushan27p.github.io/amazon-clone/)
+[View Site](https://bhushan27p.github.io/Amazon-frontend/)
 
 📁 Files Included
 - index.html  
